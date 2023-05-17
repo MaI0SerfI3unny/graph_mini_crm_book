@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6458e369948b58cae6c25fdc"
+  },
+  "name": "Shaun",
+  "age": 30,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626ee95bb8d23782c17469"
+  },
+  "name": "Rob Lloyd Jones",
+  "age": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626f535bb8d23782c1746d"
+  },
+  "name": "Eric Hill",
+  "age": 45,
+  "__v": 0
+}]

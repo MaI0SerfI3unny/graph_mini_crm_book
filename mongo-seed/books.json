@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "64626b3d5bb8d23782c1745d"
+  },
+  "name": "Book 1",
+  "genre": "Fantastic",
+  "authorId": "64626ee95bb8d23782c17469",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626dd85bb8d23782c17461"
+  },
+  "name": "Book Earth",
+  "genre": "Romantic",
+  "authorId": "64626ee95bb8d23782c17469",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626e685bb8d23782c17463"
+  },
+  "name": "The King's Pants: A children's picture book to celebrate King Charles III royal coronation",
+  "genre": "Romantic",
+  "authorId": "64626ee95bb8d23782c17469",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626e7c5bb8d23782c17465"
+  },
+  "name": "Dragon Post",
+  "genre": "Romantic",
+  "authorId": "64626ee95bb8d23782c17469",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626e935bb8d23782c17467"
+  },
+  "name": "Where's Mr King? - Felt Flaps",
+  "genre": "Fantastic",
+  "authorId": "64626ee95bb8d23782c17469",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626f905bb8d23782c1746f"
+  },
+  "name": "Where's Spot? - Spot - Original Lift The Flap",
+  "genre": "Fantastic",
+  "authorId": "64626f535bb8d23782c1746d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626fac5bb8d23782c17471"
+  },
+  "name": "I Love Spot Baby Books: Splish Splash Spot!",
+  "genre": "Fantastic",
+  "authorId": "64626f535bb8d23782c1746d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64626fc15bb8d23782c17473"
+  },
+  "name": "Spot Says Goodnight - Spot - Original Lift The Flap",
+  "genre": "Fantastic",
+  "authorId": "64626f535bb8d23782c1746d",
+  "__v": 0
+}]
